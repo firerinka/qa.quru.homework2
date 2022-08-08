@@ -32,7 +32,7 @@ public class Cat {
     }
 
     public void callCat() {
-        System.out.println(name + ", кскскс!");
+        System.out.println(name + ", кскс!");
     }
 
     public void playWithCat() {
